@@ -1,0 +1,16 @@
+gradle_build/*
+gradlew*
+.gradle
+gradle.properties
+
+.idea/*
+build/
+target/*
+.~
+/bin/
+/target/    
+/logs/
+
+.classpath
+.project
+.settings
